@@ -10,7 +10,8 @@ ReactDOM.render(
     <h1>Calculadora</h1>
     <Calculator />
   </div>
-  , document.getElementById('root'));
+  , document.getElementById('root')
+  );
 
 
 serviceWorker.unregister();
